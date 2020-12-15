@@ -1,0 +1,43 @@
+.carte {
+	max-width : 400px;
+	margin: auto;
+	box-shadow: 0px 4px 4px 4px; 
+	color: #9ac8fc;
+	text-align: center;
+}
+.par {
+	margin-right: 150px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+body {
+	background-color: #243447;
+	color: white;
+}
+a {
+	color: grey;
+}
+.case {
+	display: flex;
+	background-image: url("images/Space.png");
+}
+.colonne {
+	align-items: center;
+	margin-left: 150px;
+}
+.case2 {
+	display: flex;
+	background-image: url("images/Bronx.jpg");
+	color: white;
+}
+.colonne2 {
+	align-items: center;
+	margin-left: 150px;
+}
+#Couleur {
+	background-color: black;
+}
+#peace {
+	text-align: center;
+}
